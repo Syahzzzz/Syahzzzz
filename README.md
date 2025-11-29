@@ -7,7 +7,7 @@
 
 I'm Kiex or u can call me Syah ? Whatever u want but make sure root name :)
 
-i learn to make seamless android application using flutter/dart language
+i learn to develop seamless android application using flutter/dart language
 
 that's all for now .....
 
