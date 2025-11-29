@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Syahzzzz/Syahzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kiexz ! 👋
 
-Here are some ideas to get you started:
+### 📱 Android Developer | 🕵️ Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+> "Building secure and seamless mobile experiences."
+
+<br/>
+
+---
+
+### 🚀 Current Focus
+
+**I am currently working on my Final Year Project (FYP):**
+
+## 🏥 MedSense
+**An intelligent application for MedSense queue management system**
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+</p>
+
+</div>
