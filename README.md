@@ -1,4 +1,4 @@
-<div >
+<div>
 
 # Hi there, I'm Kiexz ! 👋
 
@@ -10,8 +10,6 @@
 
 <br/>
 
----
-
 ### 🚀 Current Focus
 
 **I am currently working on my Final Year Project (FYP):**
@@ -20,8 +18,6 @@
 **An intelligent application for MedSense queue management system**
 
 <br/>
-
----
 
 ### 🛠️ Tech Stack
 
