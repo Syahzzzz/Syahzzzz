@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # Hi there, I'm Kiexz ! 👋
 
