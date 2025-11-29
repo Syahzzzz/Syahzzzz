@@ -1,23 +1,15 @@
 <div>
 
 # Hi there, I'm Kiexz ! 👋
-
 ### 📱 Android Developer | 🕵️ Cybersecurity Enthusiast
 
 <br/>
 
-> "Building secure and seamless mobile experiences."
+I'm Kiex or u can call me Syah ? Whatever u want but make sure root name :)
 
-<br/>
+i learn to make semless android application using flutter/dart language
 
-### 🚀 Current Focus
-
-**I am currently working on my Final Year Project (FYP):**
-
-## 🏥 MedSense
-**An intelligent application for MedSense queue management system**
-
-<br/>
+that's all for now .....
 
 ### 🛠️ Tech Stack
 
