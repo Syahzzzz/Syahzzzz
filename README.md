@@ -45,9 +45,3 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 *   **MedSense (Final Year Project):** Architected and deployed an AI-driven clinic management system handling dynamic patient queuing.
 *   **Security & Encryption:** Active research into data integrity, creating local hardware vaults, and testing secure communication frameworks.
 *   **Enterprise Architecture:** Bridging the gap between conceptual design (Presentation, Service, Data layers) and production-ready codebases.
-
----
-
-### 📫 Let's Connect!
-
-Looking to collaborate on scalable mobile apps or discuss tech architecture? Feel free to reach out or explore my repositories below!
