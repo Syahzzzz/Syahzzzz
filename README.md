@@ -39,11 +39,3 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahzzzz&theme=radium&hide_border=true" alt="Syah's GitHub Streak" />
 </div>
-
----
-
-### 🚀 Featured Work & Applied Concepts
-
-*   **MedSense (Final Year Project):** Architected and deployed an AI-driven clinic management system handling dynamic patient queuing.
-*   **Security & Encryption:** Active research into data integrity, creating local hardware vaults, and testing secure communication frameworks.
-*   **Enterprise Architecture:** Bridging the gap between conceptual design (Presentation, Service, Data layers) and production-ready codebases.
