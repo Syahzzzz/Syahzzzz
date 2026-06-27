@@ -2,17 +2,16 @@
 
 ### Software Engineer | Full-Stack & Mobile Developer | Tech Architecture Enthusiast
 
-I'm a highly motivated IT professional specializing in Full Stack and Mobile Development, focused on building practical, scalable, and secure solutions. I love diving deep into system design, enterprise architecture, and exploring how things work under the hood.
+I'm a highly motivated IT professional specializing in Full Stack and Mobile Development, focused on building practical, scalable, and secure solutions.
 
 ---
 
 ### 👨‍💻 About Me
 
-*   🔭 Currently working as a **Technology Architecture Intern**, exploring enterprise-level codebases and implementing scalable blueprints (like 3-tier architecture and 4+1 View Models).
-*   🎓 IT student specializing in **Full Stack Development**. Recently led the development of *MedSense*, an AI-powered clinic management and queuing system.
-*   🔐 Passionate about **Cybersecurity**—from building self-hosted encrypted USB vaults to reverse engineering and testing messaging encryption protocols.
-*   📈 When I'm not coding, I'm analyzing Forex markets (GBP/JPY, XAU/USD) or studying DJI drone hardware and flight protocols.
-*   ⚡ Fun fact: My past experience as a store keeper taught me everything I know about efficient, real-world inventory logic and resource management!
+*   🔭 Currently working as a **Technology Architecture Intern**.
+*   🎓 IT student specializing in **Full-Stack & Mobile Development**.
+*   💻 Passionate about scalable system design and exploring **Cybersecurity**.
+*   🚀 Creator of *MedSense*, an AI-powered clinic management system.
 
 ---
 
@@ -37,15 +36,11 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 
 ### 📊 GitHub Stats
 
-![Syah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syahzzzz&show_icons=true&theme=radium&hide_border=true)
+![Syah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syahzzzz&show_icons=true&theme=radium&hide_border=true&v=1)
 
 ![Syah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syahzzzz&theme=radium&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syahzzzz&layout=compact&theme=radium&hide_border=true)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahzzzz&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syahzzzz&layout=compact&theme=radium&hide_border=true&v=1)
 
 ---
 
@@ -59,4 +54,4 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 
 ### 📫 Let's Connect!
 
-Looking to collaborate on scalable mobile apps, discuss tech architecture, or chat about market volatility and drone tech? Feel free to reach out or explore my repositories below!
+Looking to collaborate on scalable mobile apps or discuss tech architecture? Feel free to reach out or explore my repositories below!
