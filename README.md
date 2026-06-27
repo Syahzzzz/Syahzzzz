@@ -35,8 +35,9 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 ---
 
 ### 📊 GitHub Stats
-
+<center>
 ![Syah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syahzzzz&theme=radium&hide_border=true)
+</center>
 
 ---
 
