@@ -36,11 +36,7 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 
 ### 📊 GitHub Stats
 
-![Syah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syahzzzz&show_icons=true&theme=radium&hide_border=true&v=1)
-
 ![Syah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syahzzzz&theme=radium&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syahzzzz&layout=compact&theme=radium&hide_border=true&v=1)
 
 ---
 
