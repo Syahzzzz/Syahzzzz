@@ -1,5 +1,3 @@
-# Hi there, I'm Syah! 👋
-
 ### Software Engineer | Full-Stack & Mobile Developer | Tech Architecture Enthusiast
 
 I'm a highly motivated IT professional specializing in Full Stack and Mobile Development, focused on building practical, scalable, and secure solutions.
