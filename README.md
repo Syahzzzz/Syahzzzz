@@ -35,5 +35,6 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kukiexz&theme=radium&hide_border=true" alt="Syah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kukiexz&theme=radium&hide_border=true" alt="Kiexz GitHub Streak" />
 </div>
+
